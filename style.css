@@ -1,0 +1,19 @@
+body{
+    background-image: url(./fundo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fonte{
+    font-size: 38px;
+    color: whitesmoke;
+}
+.lista{
+    font-size: 25px;
+}
+img{
+    border-radius: 100%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px
+}
