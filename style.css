@@ -29,7 +29,3 @@ body{
     height: 400px;
     position: relative;
 }
-ul li:nth-child(odd) {
-    background-color: rgba(91, 75, 53) ;
-    
-}
