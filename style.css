@@ -1,12 +1,35 @@
 body{
     background-image: url(./fundo.gif);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover
 }
-.fonte{
+.fonte-n{
     font-size: 38px;
     color: whitesmoke;
+    text-align: center;
 }
-.lista{
+.fonte-d {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    font-size: 33px;
+    top: 30%;
+    left: 25%;
+}
+.lista {
     font-size: 25px;
+}
+#foto-leandro{
+    float: left;
+    height: 380px;
+    padding: 10px;
+    background-color: rgba(91, 75, 53);
+}
+.conteiner {
+    height: 400px;
+    position: relative;
+}
+ul li:nth-child(odd) {
+    background-color: rgba(91, 75, 53) ;
+    
 }
